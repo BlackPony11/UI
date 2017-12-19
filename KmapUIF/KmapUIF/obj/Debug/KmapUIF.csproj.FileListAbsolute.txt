@@ -1,0 +1,9 @@
+D:\musor\KmapUI\KmapUIF\KmapUIF\bin\Debug\KmapUIF.exe.config
+D:\musor\KmapUI\KmapUIF\KmapUIF\bin\Debug\KmapUIF.exe
+D:\musor\KmapUI\KmapUIF\KmapUIF\bin\Debug\KmapUIF.pdb
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.csprojResolveAssemblyReference.cache
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.Form1.resources
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.Properties.Resources.resources
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.csproj.GenerateResource.Cache
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.exe
+D:\musor\KmapUI\KmapUIF\KmapUIF\obj\Debug\KmapUIF.pdb
